@@ -1,12 +1,4 @@
 [![Last.fm Now Playing](https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=ajisai46&theme=catppuccin)](https://www.last.fm/user/ajisai46)
-<iframe
-  src="https://lastfm-playing-embed.netlify.app/?user=ajisai46&theme=dark"
-  width="440"
-  height="140"
-  frameborder="0"
-  allowtransparency="true"
-  style="border: none; background: transparent; border-radius: 32px;"
-></iframe>
 
 <!--
 **AjisaiAme/AjisaiAme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
