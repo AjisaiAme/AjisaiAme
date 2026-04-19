@@ -1,3 +1,8 @@
+hello, i'm ajisai.
+
+i try to connect my degree with the things i like. [website in development](https://ajisai-ame.vercel.app/)
+
+currently listening to
 [![Last.fm Now Playing](https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=ajisai46&theme=catppuccin)](https://www.last.fm/user/ajisai46)
 
 <!--
