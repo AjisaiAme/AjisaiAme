@@ -1,3 +1,5 @@
+![Last.fm Status](https://your-domain.com/.netlify/functions/image?user=USER&theme=dark)
+
 <iframe
   src="https://lastfm-playing-embed.netlify.app/?user=ajisai46&theme=dark"
   width="440"
