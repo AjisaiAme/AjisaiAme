@@ -1,6 +1,6 @@
 hello, i'm ajisai.
 
-i try to connect my degree with the things i like. [website in development](https://ajisai-ame.vercel.app/)
+i try to connect my degree with the things i like. ajisai.ame in development. v2 soon on astro
 
 ---
 
