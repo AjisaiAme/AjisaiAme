@@ -1,6 +1,6 @@
 hello, i'm ajisai.
 
-i try to connect my degree with the things i like. ajisai.ame in development. v2 soon on astro
+i try to connect my degree with the things i like. ajisai.ame v2 in the works.
 
 ---
 
