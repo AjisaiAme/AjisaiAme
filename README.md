@@ -1,4 +1,4 @@
-hello, i'm ajisai.
+hi, i'm ajisai.
 
 info-tech, web dev graduate.
 i try to connect my degree with the things i like.
