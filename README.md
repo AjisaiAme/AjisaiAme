@@ -8,7 +8,7 @@ i've been working on my [personal site](https://ajisai-ame-v2.mochimoshhh.worker
 
 [![Last.fm Now Playing](https://lastfm-playing-embed.netlify.app/.netlify/functions/image?user=ajisai46&theme=catppuccin)](https://www.last.fm/user/ajisai46)
 
-stuff i use
+**stuff i use**
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,sqlite,obsidian,cloudflare,figma" />
