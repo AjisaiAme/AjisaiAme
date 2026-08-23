@@ -1,7 +1,7 @@
 <div align="center">
- <b>hi, i'm ajisai</b>
+ <b>hi, i'm ajisai</b><br><br>
 
-info-tech, web dev graduate
+info-tech, web dev graduate.<br>
 i try to connect my degree with the things i like.
 
 i've been working on my [personal site](https://ajisai-ame-v2.mochimoshhh.workers.dev/).
