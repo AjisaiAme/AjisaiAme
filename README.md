@@ -11,7 +11,7 @@ i've been working on my [personal site](https://ajisai-ame-v2.mochimoshhh.worker
 **stuff i use**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,vite,sqlite,obsidian,py,cloudflare,figma" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,css,tailwind,vite,sqlite,obsidian,py,cloudflare,figma" />
   </a>
   
 </div>
